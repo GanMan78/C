@@ -1,5 +1,4 @@
-// If the header file is in the current directory then we can use " "
-// And if the file is in system spcified path then we can use < >
+
 #include"Header_File.h"
 
 int main()
