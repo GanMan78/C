@@ -23,8 +23,6 @@ int main()
 		double h;
 	};
 
-	// Circular bracket is not required for the sizeof if the 
-	// parameter is nota a premitive data type
 	printf("Size of structure demo is %d\n",sizeof(demo));
 
 	;union hello
