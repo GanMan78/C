@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-// This program demostate important concepts abouot the Array
+// This program demonstrate important concepts about the Array
 
 int main()
 {
@@ -13,10 +13,9 @@ int main()
 
 //////////////////////////////////////////////////////////////////////////////
 
-	// Dynamic memry allocation for array of 10 elements
+	// Dynamic memory allocation for array of 10 elements
 	int *parr1 = (int *)malloc(sizeof(int) * 10);
 
-//////////////////////////////////////////////////////////////////////////////
 	// Size of the arraymust be known at compile time
 	// We can not use variable as a size.
 	// We can provide compile constant while creating array
