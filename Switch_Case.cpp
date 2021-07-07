@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// This program demonstates concept of switch case
+// This program demonstrates concept of switch case
 
 int main()
 {
